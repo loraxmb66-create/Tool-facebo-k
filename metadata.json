@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Fanpage Management Tool",
+  "description": "A comprehensive tool to manage Facebook Fanpages, allowing users to schedule posts with text and watermarked images, view a content calendar, manage drafts, and use templates. Built with Next.js, TypeScript, Tailwind CSS, and Prisma.",
+  "requestFramePermissions": []
+}
